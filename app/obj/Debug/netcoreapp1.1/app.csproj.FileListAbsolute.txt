@@ -1,0 +1,8 @@
+/home/timur/work/aspnet/app/bin/Debug/netcoreapp1.1/app.deps.json
+/home/timur/work/aspnet/app/bin/Debug/netcoreapp1.1/app.runtimeconfig.json
+/home/timur/work/aspnet/app/bin/Debug/netcoreapp1.1/app.runtimeconfig.dev.json
+/home/timur/work/aspnet/app/bin/Debug/netcoreapp1.1/app.dll
+/home/timur/work/aspnet/app/bin/Debug/netcoreapp1.1/app.pdb
+/home/timur/work/aspnet/app/obj/Debug/netcoreapp1.1/app.AssemblyInfo.cs
+/home/timur/work/aspnet/app/obj/Debug/netcoreapp1.1/app.dll
+/home/timur/work/aspnet/app/obj/Debug/netcoreapp1.1/app.pdb
